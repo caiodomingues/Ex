@@ -1,0 +1,19 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "Yet another Electron client application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/caiodomingues/ex",
+  "keywords": [
+    "Electron",
+    "client"
+  ],
+  "author": "Caio Domingues",
+  "license": "MIT-1.0",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
